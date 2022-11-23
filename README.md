@@ -39,9 +39,11 @@ DESCRIÇÃO PROJETO: Desenvolvimento de um banco de dados para um sistema de
 vendas de pizza.
 
 ### **1.1 Propósito do Documento**
+```txt
+        Apresentar as análises realizadas, construção e resultados para a construção do Banco de Dados para a solução Projeto Disk Pizzas que será desenvolvido pelo estudante Felipe Soares Santana para a empresa Disk Pizzas, exibindo as funcionalidades do produto, formas e métodos de interação com outros sistemas existentes, especificações técnicas e outras características necessárias para orientar o desenvolvimento do produto.
 
-                Apresentar as análises realizadas, construção e resultados para a construção do Banco de Dados para a solução Projeto Disk Pizzas que será desenvolvido pelo estudante Felipe Soares Santana para a empresa Disk Pizzas, exibindo as funcionalidades do produto, formas e métodos de interação com outros sistemas existentes, especificações técnicas e outras características necessárias para orientar o desenvolvimento do produto.
-
+```
+                
 ### **1.2 Perspectiva do Sistema**
 
                 Identificamos a necessidade de implementar um banco de dados de maneira que seja possível que todas as informações referente aos clientes, atendentes e estoque, fiquem devidamente organizadas e de fácil acesso. A metodologia atualmente utilizada pela pizzaria acaba sendo um tanto quanto ineficaz. Atualmente é muito complicado consultar alguma venda, ou obter algum tipo de relatório, visto que não existe um sistema que facilite esse tipo de transação. Com a implantação de um SGBD esperamos resolver todos os problemas citados acima, para que assim possamos ter uma base de dados sólida e eficiente.
