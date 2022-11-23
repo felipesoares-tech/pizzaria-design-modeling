@@ -4,7 +4,7 @@
 
 ### Sumário
 
-<a href="#1-informações-do-projeto" style="color:#fff;"><h2>1 INFORMAÇÕES DO PROJETO</h2></a>
+<a href="#1-informações-do-projeto-1" style="color:#fff;"><h2>1 INFORMAÇÕES DO PROJETO</h2></a>
 
         1.1 Propósito do Documento
 
